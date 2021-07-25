@@ -1,0 +1,2 @@
+# Breast Cancer Prediction using Support Vector Machine
+Breast cancer, if found at an earlier stage will help save lives of thousands of women or even men. So this project help the real world patients and doctors to gather as much information as they can. For this project I collected the dataset from Kaggle. I explore the data with pandas, numpy, matplotlib and seaborn, make predictions with scikit-learn and eveluate using Logistic Regression and Support Vector Machine. And found that SVM performed better than Logistic Regression.
